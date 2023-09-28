@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1695222882 source:c:\users\usuario\desktop\simulacroparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+
+1695224323 c:\users\usuario\desktop\simulacroparcial\funciones.h
+
+1695222002 source:c:\users\usuario\desktop\simulacroparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"clientes.h"
+
+1695224157 source:c:\users\usuario\desktop\simulacroparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"clientes.h"
+
+1695216417 c:\users\usuario\desktop\simulacroparcial\menu.h
+
+1695224157 source:c:\users\usuario\desktop\simulacroparcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+	"clientes.h"
+
+1695224364 c:\users\usuario\desktop\simulacroparcial\clientes.h
+	"funciones.h"
+
+1695770964 source:c:\users\gc\desktop\simulacroparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+
+1695245044 c:\users\gc\desktop\simulacroparcial\funciones.h
+
+1695261513 source:c:\users\gc\desktop\simulacroparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"clientes.h"
+
+1695771209 c:\users\gc\desktop\simulacroparcial\menu.h
+
+1695772819 c:\users\gc\desktop\simulacroparcial\clientes.h
+	"funciones.h"
+
+1695774744 source:c:\users\gc\desktop\simulacroparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"clientes.h"
+
+1695774918 source:c:\users\gc\desktop\simulacroparcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+	"clientes.h"
+

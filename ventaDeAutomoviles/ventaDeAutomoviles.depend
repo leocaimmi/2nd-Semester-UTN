@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1695817415 source:c:\users\usuario\desktop\ventadeautomoviles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1695826247 source:c:\users\usuario\desktop\ventadeautomoviles\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+
+1695825921 source:c:\users\usuario\desktop\ventadeautomoviles\auto.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+
+1695825655 c:\users\usuario\desktop\ventadeautomoviles\auto.h
+
+1695818658 c:\users\usuario\desktop\ventadeautomoviles\menu.h
+
