@@ -63,3 +63,35 @@
 	"funciones.h"
 	"clientes.h"
 
+1695774918 source:c:\users\gc\desktop\2nd-semester-utn\simulacroparcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+	"clientes.h"
+
+1695245044 c:\users\gc\desktop\2nd-semester-utn\simulacroparcial\funciones.h
+
+1695772819 c:\users\gc\desktop\2nd-semester-utn\simulacroparcial\clientes.h
+	"funciones.h"
+
+1695770964 source:c:\users\gc\desktop\2nd-semester-utn\simulacroparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+
+1695775072 source:c:\users\gc\desktop\2nd-semester-utn\simulacroparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"clientes.h"
+
+1695771209 c:\users\gc\desktop\2nd-semester-utn\simulacroparcial\menu.h
+
+1695774744 source:c:\users\gc\desktop\2nd-semester-utn\simulacroparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"clientes.h"
+
