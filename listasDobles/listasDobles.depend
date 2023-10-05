@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696472246 source:c:\users\gc\desktop\programacion\listasdobles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listasDobles.h"
+
+1696472413 source:c:\users\gc\desktop\programacion\listasdobles\listasdobles.c
+	<stdio.h>
+	<stdlib.h>
+	"listasDobles.h"
+
+1696470408 c:\users\gc\desktop\programacion\listasdobles\listasdobles.h
+

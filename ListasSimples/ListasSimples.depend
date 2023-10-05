@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696382878 source:c:\users\gc\desktop\programacion\listassimples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listasSimples.h"
+
+1696382954 source:c:\users\gc\desktop\programacion\listassimples\listassimples.c
+	<stdio.h>
+	<stdlib.h>
+	"listasSimples.h"
+
+1696298592 c:\users\gc\desktop\programacion\listassimples\listassimples.h
+
