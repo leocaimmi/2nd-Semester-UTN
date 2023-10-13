@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1696511939 source:d:\caimmileonardo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"persona.h"
+	"contactos.h"
+
+1696511939 d:\caimmileonardo\menu.h
+
+1696505583 source:d:\caimmileonardo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1696508869 source:d:\caimmileonardo\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1696507778 d:\caimmileonardo\persona.h
+
+1696511596 source:d:\caimmileonardo\contactos.c
+	<stdio.h>
+	<stdlib.h>
+	"contactos.h"
+	"persona.h"
+
+1696511407 d:\caimmileonardo\contactos.h
+
+1696511598 source:c:\users\gc\desktop\caimmileonardo\contactos.c
+	<stdio.h>
+	<stdlib.h>
+	"contactos.h"
+	"persona.h"
+
+1696511408 c:\users\gc\desktop\caimmileonardo\contactos.h
+
+1697207878 c:\users\gc\desktop\caimmileonardo\persona.h
+
+1696505584 source:c:\users\gc\desktop\caimmileonardo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1696511940 c:\users\gc\desktop\caimmileonardo\menu.h
+
+1697207885 source:c:\users\gc\desktop\caimmileonardo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"persona.h"
+	"contactos.h"
+
+1697208044 source:c:\users\gc\desktop\caimmileonardo\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
