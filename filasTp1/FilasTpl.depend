@@ -71,3 +71,39 @@
 	<stdlib.h>
 	"filas.h"
 
+1697240849 source:c:\users\gc\desktop\2nd-semester-utn\filastp1\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"filas.h"
+
+1697508315 c:\users\gc\desktop\2nd-semester-utn\filastp1\filas.h
+	"listasDobles.h"
+
+1697234384 c:\users\gc\desktop\2nd-semester-utn\filastp1\listasdobles.h
+	"listaSimple.h"
+
+1697221421 c:\users\gc\desktop\2nd-semester-utn\filastp1\listasimple.h
+
+1697234222 source:c:\users\gc\desktop\2nd-semester-utn\filastp1\listasdobles.c
+	<stdio.h>
+	<stdlib.h>
+	"listasDobles.h"
+
+1697237335 source:c:\users\gc\desktop\2nd-semester-utn\filastp1\listasimple.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSimple.h"
+
+1697219514 source:c:\users\gc\desktop\2nd-semester-utn\filastp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1697219474 c:\users\gc\desktop\2nd-semester-utn\filastp1\menu.h
+
+1697396528 source:c:\users\gc\desktop\2nd-semester-utn\filastp1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"filas.h"
+
