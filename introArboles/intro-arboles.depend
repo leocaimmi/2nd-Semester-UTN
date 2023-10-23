@@ -25,3 +25,16 @@
 	<stdlib.h>
 	"arboles.h"
 
+1698025117 source:c:\users\gc\desktop\2nd-semester-utn\introarboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+
+1698023159 c:\users\gc\desktop\2nd-semester-utn\introarboles\arboles.h
+
+1698025530 source:c:\users\gc\desktop\2nd-semester-utn\introarboles\arboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arboles.h"
+

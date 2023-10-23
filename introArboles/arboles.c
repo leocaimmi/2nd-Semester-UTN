@@ -164,6 +164,28 @@ int buscarDatoRecursivoTernario(nodoArbol * raiz,int datoABuscar)
 ///ya esta hecho
 
 
+///contar altura
+int contarAltura(nodoArbol* raiz)
+{
+    if (raiz == NULL)
+    {
+        return 0;
+    }
+    else
+    {
+        int alturaIzquierda = contarAltura(raiz->izquierda);
+        int alturaDerecha = contarAltura(raiz->derecha);
+
+        int alturaMaxima = alturaIzquierda;
+        if (alturaDerecha > alturaMaxima)
+        {
+            alturaMaxima = alturaDerecha;
+        }
+
+        return alturaMaxima + 1;
+    }
+}
+
 
 
 

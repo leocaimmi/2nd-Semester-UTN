@@ -23,4 +23,6 @@ int contarHojas2(nodoArbol* raiz);///MIA
 
 int encontrarDato(nodoArbol * raiz,int datoVerificar);
 int buscarDatoRecursivoTernario(nodoArbol * raiz,int datoABuscar);
+
+int contarAltura(nodoArbol* raiz);
 #endif // ARBOLES_H_INCLUDED
