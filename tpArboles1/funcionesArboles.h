@@ -27,4 +27,13 @@ nodoSimple * buscarNodoPorNombreLista(nodoSimple * lista,char nombreBuscar[]);
 int  calcularAlturaDelArbol(nodoArbol * raiz);
 int calcularCantidadDeNodosArbol(nodoArbol * raiz);
 int calcularCantidadHojasArbol(nodoArbol * raiz);
+
+nodoArbol * borrarUnNodo(nodoArbol * raiz,int auxLegajo);
+int esHoja(nodoArbol * raiz);
+int esHojaTernario(nodoArbol*raiz);
+
+nodoArbol * NMD(nodoArbol * raiz);
+nodoArbol * NMI(nodoArbol * raiz);
+
+
 #endif // FUNCIONESARBOLES_H_INCLUDED

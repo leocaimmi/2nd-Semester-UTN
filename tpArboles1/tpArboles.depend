@@ -28,3 +28,32 @@
 	<stdlib.h>
 	"listasSimples.h"
 
+1698100302 source:c:\users\gc\desktop\2nd-semester-utn\tparboles1\listassimples.c
+	<stdio.h>
+	<stdlib.h>
+	"listasSimples.h"
+
+1698099874 c:\users\gc\desktop\2nd-semester-utn\tparboles1\listassimples.h
+
+1698097775 source:c:\users\gc\desktop\2nd-semester-utn\tparboles1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1698192721 c:\users\gc\desktop\2nd-semester-utn\tparboles1\menu.h
+	"funcionesArboles.h"
+
+1698274176 c:\users\gc\desktop\2nd-semester-utn\tparboles1\funcionesarboles.h
+	"listasSimples.h"
+
+1698274316 source:c:\users\gc\desktop\2nd-semester-utn\tparboles1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1698274122 source:c:\users\gc\desktop\2nd-semester-utn\tparboles1\funcionesarboles.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funcionesArboles.h"
+

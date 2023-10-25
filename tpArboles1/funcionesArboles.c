@@ -229,7 +229,109 @@ int calcularCantidadHojasArbol(nodoArbol * raiz)
     return cantHojas;
 }
 
-/**Hacer una función que borre un nodo de un árbol.*////falta hacer
+/*9.Hacer una función que borre un nodo de un árbol.*/
+
+nodoArbol * borrarUnNodo(nodoArbol * raiz,int auxLegajo)///premisa mentirosa, no borramos el nodo efectivamente, sino que solo el dato
+{
+    ///verificar hojas  true or false
+
+    ///del lado izquierdo el mayor,el mayor de los menores a full(buscar mayor...)NMD(nodo mas derecho)
+    ///del lado derecho el menor,el menor de los mayores a full(buscar menor...)NMI(nodo mas izquierda)
+    ///reemplazo el que quiero borrar con el que encontre.
+    ///ahora borra al dato
+    if(raiz != NULL)
+    {
+        if(raiz->dato.legajo == auxLegajo)
+        {
+            nodoArbol*aux;
+            if(esHojaTernario(raiz))
+            {
+                free(raiz);
+                raiz=NULL;
+            }
+            else if(raiz->izq!= NULL)
+            {
+                aux= NMD(raiz->izq);
+                raiz->dato = aux->dato;
+                raiz->izq = borrarUnNodo(raiz->izq,aux->dato.legajo);
+
+            }
+            else if(raiz->der != NULL)
+            {
+                aux = NMI(raiz->izq);
+                raiz->dato = aux->dato;
+                raiz->der = borrarUnNodo(raiz->der,aux->dato.legajo);
+            }
+
+        }
+        else if(auxLegajo< raiz->dato.legajo)
+        {
+            raiz->izq = borrarUnNodo(raiz->izq,auxLegajo);
+
+        }
+        else
+        {
+            raiz->der = borrarUnNodo(raiz->der,auxLegajo);
+        }
+    }
+
+
+    return raiz;
+}
+
+
+int esHoja(nodoArbol * raiz)///agregar a la libreria de arboles
+{
+
+    if(raiz!= NULL)
+    {
+        if(raiz->izq == NULL && raiz->der == NULL)
+        {
+            return 1;
+        }
+        else
+        {
+            return 0;
+
+        }
+    }
+}
+
+int esHojaTernario(nodoArbol*raiz)
+{
+    return (raiz && !raiz->izq && !raiz->der);
+}
+
+
+nodoArbol * NMD(nodoArbol * raiz)
+{
+
+    if(raiz!= NULL)
+    {
+        if(raiz->der != NULL)
+        {
+
+            raiz = NMD(raiz->der);
+        }
+    }
+
+    return raiz;
+}
+
+nodoArbol * NMI(nodoArbol * raiz)
+{
+
+    if(raiz!= NULL)
+    {
+        if(raiz->izq != NULL)
+        {
+
+            raiz = NMI(raiz->izq);
+        }
+    }
+
+    return raiz;
+}
 
 
 

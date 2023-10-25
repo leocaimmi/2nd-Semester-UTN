@@ -130,7 +130,20 @@ void menu()
 
             break;
         case 9:
-
+            if(raiz!=NULL)
+            {
+                puts("..................INGRESE EL NRO DE LEGAJO A BUSCAR....................");
+                legajo = preguntarDato();
+                puts("---------------------------------Arbol antes de borrar--------------------------------------");
+                mostrarInorder(raiz);
+                raiz= borrarUnNodo(raiz,legajo);
+                puts("---------------------------------Arbol despues de borrar--------------------------------------");
+                mostrarInorder(raiz);
+            }
+            else
+            {
+                puts("Realizar inciso 1");
+            }
             break;
 
         default:
