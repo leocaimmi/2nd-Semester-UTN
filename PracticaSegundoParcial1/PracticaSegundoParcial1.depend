@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1700004191 source:c:\users\gc\desktop\2nd-semester-utn\practicasegundoparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1700092187 source:c:\users\gc\desktop\2nd-semester-utn\practicasegundoparcial1\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1700094805 source:c:\users\gc\desktop\2nd-semester-utn\practicasegundoparcial1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1700057246 c:\users\gc\desktop\2nd-semester-utn\practicasegundoparcial1\menu.h
+	"arbol.h"
+
+1700094805 c:\users\gc\desktop\2nd-semester-utn\practicasegundoparcial1\arbol.h
+
+1700086814 c:\users\gc\desktop\2nd-semester-utn\practicasegundoparcial1\peliculas.h
+
+1700086829 source:c:\users\gc\desktop\2nd-semester-utn\practicasegundoparcial1\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+
