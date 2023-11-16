@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1700101884 source:c:\users\gc\desktop\2nd-semester-utn\tpestructurascompuestas6.1\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+	"string.h"
+
+1700100759 c:\users\gc\desktop\2nd-semester-utn\tpestructurascompuestas6.1\archivos.h
+
+1700101821 source:c:\users\gc\desktop\2nd-semester-utn\tpestructurascompuestas6.1\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+	"string.h"
+
+1700101454 c:\users\gc\desktop\2nd-semester-utn\tpestructurascompuestas6.1\listas.h
+	"archivos.h"
+
+1700098578 source:c:\users\gc\desktop\2nd-semester-utn\tpestructurascompuestas6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"time.h"
+
+1700095627 c:\users\gc\desktop\2nd-semester-utn\tpestructurascompuestas6.1\menu.h
+	"listas.h"
+
+1700101810 source:c:\users\gc\desktop\2nd-semester-utn\tpestructurascompuestas6.1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"menu.h"
+
