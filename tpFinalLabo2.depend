@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1698358202 source:c:\users\gc\desktop\tpfinallabo2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698358867 source:c:\users\gc\desktop\tpfinallabo2\listasimple.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"listaSimple.h"
+
+1698358990 c:\users\gc\desktop\tpfinallabo2\listasimple.h
+
+1698451411 source:c:\users\fabri\desktop\tpfinallabo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1698449360 source:c:\users\fabri\desktop\tpfinallabo2\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1698450714 c:\users\fabri\desktop\tpfinallabo2\biblioteca.h
+
+1698449360 source:c:\users\fabri\desktop\tpfinallabo2\filareservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1698449360 source:c:\users\fabri\desktop\tpfinallabo2\listadoblereservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1698450474 source:c:\users\fabri\desktop\tpfinallabo2\listasimplelibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1698446912 c:\users\fabri\desktop\tpfinallabo2\arbolmiembros.h
+	"biblioteca.h"
+
+1698447720 c:\users\fabri\desktop\tpfinallabo2\filareservas.h
+	"biblioteca.h"
+
+1698447720 c:\users\fabri\desktop\tpfinallabo2\listadoblereservas.h
+	"biblioteca.h"
+
+1698449551 c:\users\fabri\desktop\tpfinallabo2\listasimplelibros.h
+	"biblioteca.h"
+
+1698451381 source:c:\users\fabri\desktop\tpfinallabo2\arbolmiembros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1700450166 source:c:\users\fabri\desktop\proyecto_final_2-main\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1700442120 c:\users\fabri\desktop\proyecto_final_2-main\biblioteca.h
+	"listaSimpleLibros.h"
+
+1700442644 source:c:\users\fabri\desktop\proyecto_final_2-main\filareservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"filaReservas.h"
+
+1700450185 source:c:\users\fabri\desktop\proyecto_final_2-main\listadoblereservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaDobleReservas.h"
+
+1700450149 source:c:\users\fabri\desktop\proyecto_final_2-main\listasimplelibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaSimpleLibros.h"
+
+1700443250 source:c:\users\fabri\desktop\proyecto_final_2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1700441955 source:c:\users\fabri\desktop\proyecto_final_2-main\arbolmiembros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"arbolMiembros.h"
+
+1700438109 c:\users\fabri\desktop\proyecto_final_2-main\arbolmiembros.h
+
+1700438109 c:\users\fabri\desktop\proyecto_final_2-main\filareservas.h
+	"listaDobleReservas.h"
+
+1700438109 c:\users\fabri\desktop\proyecto_final_2-main\listadoblereservas.h
+	"pilaPrestamosInactivos.h"
+
+1700457419 c:\users\fabri\desktop\proyecto_final_2-main\listasimplelibros.h
+	"filaReservas.h"
+	"arbolMiembros.h"
+
+1700500769 source:c:\users\gc\desktop\proyecto_final_2-main\arbolmiembros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"arbolMiembros.h"
+
+1700498343 c:\users\gc\desktop\proyecto_final_2-main\arbolmiembros.h
+
+1700502275 c:\users\gc\desktop\proyecto_final_2-main\biblioteca.h
+	"listaSimpleLibros.h"
+
+1700505589 source:c:\users\gc\desktop\proyecto_final_2-main\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1700499113 source:c:\users\gc\desktop\proyecto_final_2-main\filareservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"filaReservas.h"
+
+1700498343 c:\users\gc\desktop\proyecto_final_2-main\filareservas.h
+	"listaDobleReservas.h"
+
+1700499113 source:c:\users\gc\desktop\proyecto_final_2-main\listadoblereservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaDobleReservas.h"
+
+1700498343 c:\users\gc\desktop\proyecto_final_2-main\listadoblereservas.h
+	"pilaPrestamosInactivos.h"
+
+1700504957 source:c:\users\gc\desktop\proyecto_final_2-main\listasimplelibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaSimpleLibros.h"
+
+1700498343 c:\users\gc\desktop\proyecto_final_2-main\listasimplelibros.h
+	"filaReservas.h"
+	"arbolMiembros.h"
+
+1700498343 source:c:\users\gc\desktop\proyecto_final_2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1700232645 source:c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1700232056 c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\biblioteca.h
+	"listaSimpleLibros.h"
+
+1699987328 source:c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\filareservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"filaReservas.h"
+
+1699987328 c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\filareservas.h
+	"listaDobleReservas.h"
+
+1699987328 source:c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\listadoblereservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaDobleReservas.h"
+
+1699987328 c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\listadoblereservas.h
+
+1700231905 source:c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\listasimplelibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaSimpleLibros.h"
+
+1700232056 c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\listasimplelibros.h
+	"filaReservas.h"
+	"arbolMiembros.h"
+
+1699987328 source:c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1699987328 c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\arbolmiembros.h
+
+1699987328 source:c:\users\facun\onedrive\escritorio\proyecto nasheburger\proyecto_final_2-main\arbolmiembros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"arbolMiembros.h"
+
+1698830628 source:c:\users\usuario\desktop\proyecto_final_2-main\arbolmiembros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"arbolMiembros.h"
+
+1698830628 c:\users\usuario\desktop\proyecto_final_2-main\arbolmiembros.h
+
+1698852076 c:\users\usuario\desktop\proyecto_final_2-main\biblioteca.h
+	"listaSimpleLibros.h"
+	"listaDobleReservas.h"
+	"arbolMiembros.h"
+	"filaReservas.h"
+
+1698830628 c:\users\usuario\desktop\proyecto_final_2-main\filareservas.h
+
+1698830628 c:\users\usuario\desktop\proyecto_final_2-main\listadoblereservas.h
+
+1698830628 c:\users\usuario\desktop\proyecto_final_2-main\listasimplelibros.h
+	"filaReservas.h"
+
+1698852163 source:c:\users\usuario\desktop\proyecto_final_2-main\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1698830628 source:c:\users\usuario\desktop\proyecto_final_2-main\filareservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"filaReservas.h"
+
+1698830628 source:c:\users\usuario\desktop\proyecto_final_2-main\listadoblereservas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaDobleReservas.h"
+
+1698850600 source:c:\users\usuario\desktop\proyecto_final_2-main\listasimplelibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaSimpleLibros.h"
+
+1698830628 source:c:\users\usuario\desktop\proyecto_final_2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1700438109 source:c:\users\fabri\desktop\proyecto_final_2-main\pilaprestamosinactivos.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaPrestamosInactivos.h"
+
+1700438109 c:\users\fabri\desktop\proyecto_final_2-main\pilaprestamosinactivos.h
+
+1700499216 c:\users\gc\desktop\proyecto_final_2-main\pilaprestamosinactivos.h
+
+1700499113 source:c:\users\gc\desktop\proyecto_final_2-main\pilaprestamosinactivos.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaPrestamosInactivos.h"
+
+1700499002 c:\users\gc\desktop\proyecto_final_2-main\colores.h
+
+1700500091 source:c:\users\gc\desktop\proyecto_final_2-main\colores.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+
